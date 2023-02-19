@@ -7,7 +7,9 @@
 
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/abhinav-adtechs/abhinav-adtechs/main/stackit-icon-long.png" width="90">
+<p align=center>
+  <img src="https://raw.githubusercontent.com/abhinav-adtechs/abhinav-adtechs/main/stackit-icon-long.png" width="90">
+</p>
 
 <h2 align=center> Internship Alert! </h2> 
 
