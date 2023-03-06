@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/abhinav-adtechs/abhinav-adtechs/main/stackit-icon-long.png" width="90">
 </p>
 
-<h2 align=center> Internship Alert! </h2> 
+<h2 align=center> Hiring Alert – First Engineer (Intern) </h2> 
 
 
 <h5 align=center> What's happening? </h5>
