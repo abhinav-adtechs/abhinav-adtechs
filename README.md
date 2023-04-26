@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/abhinav-adtechs/abhinav-adtechs/main/stackit-icon-long.png" width="90">
 </p>
 
-<h2 align=center> Hiring Alert – Engineering Team (Summer Internships) </h2> 
+<h2 align=center> Hiring Alert – Engineering Team (Summer Internships) Apply <a href="https://wellfound.com/l/2yCV9y"> here </a> </h2> 
 
 
 <h5 align=center> What's happening? </h5>
