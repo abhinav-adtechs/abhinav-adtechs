@@ -28,7 +28,7 @@ Alongside that, I build developer tooling for AI assistants and occasionally rew
     <td width="50%" valign="top">
       <img src="assets/pixel/life.svg" width="80" height="80" align="left" alt="">
       <h3><a href="https://github.com/abhinav-adtechs/life-is-short">Life is Short</a></h3>
-      <p>Do the one thing that matters right now. <a href="https://life-is-short-pi.vercel.app">Live ↗</a></p>
+      <p>Do the one thing that matters right now. <a href="https://life-is-short-pi.vercel.app">Live&nbsp;↗</a></p>
       <code>Next.js</code> <code>Supabase</code>
     </td>
   </tr>
@@ -56,7 +56,7 @@ Alongside that, I build developer tooling for AI assistants and occasionally rew
     <td width="50%" valign="top">
       <img src="assets/pixel/trophy.svg" width="80" height="80" align="left" alt="">
       <h3><a href="https://github.com/abhinav-adtechs/fifa-league-tracker">FIFA League Tracker</a></h3>
-      <p>Track your friends' FIFA / EA FC league. <a href="https://fifa-league-tracker.vercel.app">Live ↗</a></p>
+      <p>Track your friends' FIFA / EA FC league. <a href="https://fifa-league-tracker.vercel.app">Live&nbsp;↗</a></p>
       <code>React</code> <code>Vite</code>
     </td>
   </tr>
