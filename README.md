@@ -3,40 +3,31 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/abhinav-adtechs">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+something+new+in+stealth;Turning+a+Xiaomi+Google+TV+into+a+PS5-style+console;Shipping+TypeScript+%2B+Supabase+apps+on+Vercel;Writing+Android+apps+since+2016;peace+and+digital+computers." alt="Typing intro">
-  </a>
+  <a href="https://x.com/jordiie09"><img src="https://img.shields.io/badge/@jordiie09-0d1117?style=flat-square&logo=x&logoColor=white" alt="X: @jordiie09"></a>
+  <img src="https://img.shields.io/badge/Bengaluru%2C_India-0d1117?style=flat-square&logo=googlemaps&logoColor=white" alt="Bengaluru, India">
 </p>
 
-<p align="center">
-  <a href="https://x.com/jordiie09"><img src="https://img.shields.io/badge/@jordiie09-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"></a>
-  <img src="https://img.shields.io/badge/Bengaluru-India-8b5cf6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bengaluru, India">
-  <img src="https://komarev.com/ghpvc/?username=abhinav-adtechs&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS" alt="Profile views">
-</p>
+## About
 
----
+I build software in Bengaluru, and I'm currently working on something new in stealth.
 
-## ⚡ About me
+My background is in Android. Since 2016 I have built apps ranging from VIT University's official yearbook to an ECG signal-processing pipeline, and I'm still drawn to problems that sit close to the device. Today I work mostly in TypeScript, Next.js and Supabase, building small, focused products that do one thing well.
 
-- 🔭 **Building something new in stealth** — more soon.
-- 📱 **Android at heart.** Started with university apps in 2016 — an official yearbook app, a GPA planner, an ECG signal-processing pipeline — and most recently rebuilt a Google TV into a PS5-style console.
-- 🌐 **These days:** TypeScript, Next.js, React, Supabase and Vercel — small, sharp apps that solve one problem well.
-- 🤖 **AI tooling tinkerer** — backup, restore and skills tooling for Claude Desktop.
-- 💬 _peace and digital computers._
+Alongside that, I build developer tooling for AI assistants and occasionally rework hardware I own. Most recently, I turned a Xiaomi Google TV into a console-style living-room setup.
 
-## 🚀 Featured projects
+## Selected work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/abhinav-adtechs/argon">📺 Argon</a></h3>
+      <h3><a href="https://github.com/abhinav-adtechs/argon">Argon</a></h3>
       <p>Debloated Xiaomi Google TV with a PS5-style launcher and a phone/laptop web remote.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/Android_TV-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android TV">
       <img src="https://img.shields.io/github/stars/abhinav-adtechs/argon?style=flat-square&color=a78bfa" alt="Stars">
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/abhinav-adtechs/life-is-short">⏳ Life is Short</a></h3>
+      <h3><a href="https://github.com/abhinav-adtechs/life-is-short">Life is Short</a></h3>
       <p>Do the one thing that matters right now. <a href="https://life-is-short-pi.vercel.app">Live ↗</a></p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
@@ -45,14 +36,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/abhinav-adtechs/PanTompkins-Android">❤️ PanTompkins-Android</a></h3>
+      <h3><a href="https://github.com/abhinav-adtechs/PanTompkins-Android">PanTompkins-Android</a></h3>
       <p>The classic Pan–Tompkins QRS-detection filter pipeline, streaming ECG on Android.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/Signal_Processing-ef4444?style=flat-square" alt="Signal processing">
       <img src="https://img.shields.io/github/stars/abhinav-adtechs/PanTompkins-Android?style=flat-square&color=a78bfa" alt="Stars">
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/abhinav-adtechs/Claude-Backup">🗄️ Claude-Backup</a></h3>
+      <h3><a href="https://github.com/abhinav-adtechs/Claude-Backup">Claude-Backup</a></h3>
       <p>Back up every Claude Code &amp; Cowork session to a markdown vault — resume from any account.</p>
       <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell">
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
@@ -61,14 +52,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/abhinav-adtechs/CGPAAmortizedAnalysis">📈 CGPA Amortized</a></h3>
+      <h3><a href="https://github.com/abhinav-adtechs/CGPAAmortizedAnalysis">CGPA Amortized</a></h3>
       <p>Know the GPA you need next semester to hold a 9.0 CGPA — worked out amortized-analysis style.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
       <img src="https://img.shields.io/github/stars/abhinav-adtechs/CGPAAmortizedAnalysis?style=flat-square&color=a78bfa" alt="Stars">
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/abhinav-adtechs/fifa-league-tracker">⚽ FIFA League Tracker</a></h3>
+      <h3><a href="https://github.com/abhinav-adtechs/fifa-league-tracker">FIFA League Tracker</a></h3>
       <p>Track your friends' FIFA / EA FC league. <a href="https://fifa-league-tracker.vercel.app">Live ↗</a></p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
@@ -78,7 +69,7 @@
 </table>
 
 <details>
-<summary><b>🏛️ From the archive (2015–2019)</b></summary>
+<summary><b>Earlier work (2015–2019)</b></summary>
 <br>
 
 | Project                                                                               | What it is                                                           |
@@ -90,14 +81,14 @@
 
 </details>
 
-## 🛠️ Toolbox
+## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,ts,js,react,nextjs,vite,tailwind&perline=9" alt="Languages and frameworks"><br>
   <img src="https://skillicons.dev/icons?i=supabase,postgres,vercel,git,github,go,py,powershell,bash&perline=9" alt="Platforms and tools">
 </p>
 
-## 📈 GitHub activity
+## Activity
 
 <p align="center">
   <picture>
@@ -123,5 +114,5 @@
 ---
 
 <p align="center">
-  <sub>If something here helped you, a ⭐ on the repo goes a long way.</sub>
+  <sub><i>peace and digital computers.</i></sub>
 </p>
