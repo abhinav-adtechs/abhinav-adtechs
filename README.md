@@ -92,22 +92,8 @@ Alongside that, I build developer tooling for AI assistants and occasionally rew
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=abhinav-adtechs&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA">
-    <img src="https://streak-stats.demolab.com/?user=abhinav-adtechs&theme=default&hide_border=true&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6" alt="GitHub streak stats" width="600">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-adtechs&theme=react-dark&bg_color=0D1117&color=A78BFA&line=22D3EE&point=FFFFFF&area=true&hide_border=true">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-adtechs&theme=minimal&color=6D28D9&line=06B6D4&point=6D28D9&area=true&hide_border=true" alt="Contribution activity graph" width="100%">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinav-adtechs/abhinav-adtechs/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/abhinav-adtechs/abhinav-adtechs/output/github-snake.svg" alt="Contribution snake animation" width="100%">
   </picture>
 </p>
 
