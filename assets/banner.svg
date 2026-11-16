@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Abhinav Das — Building in stealth · Android → TypeScript · Bengaluru">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070a12"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="160" cy="40" r="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="1180" cy="360" r="560" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="motif" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+    </pattern>
+    <clipPath id="card"><rect width="1280" height="360" rx="28"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1280" height="360" fill="url(#bg)"/>
+    <rect width="1280" height="360" fill="url(#grid)"/>
+    <rect width="1280" height="360" fill="url(#glowA)">
+      <animate attributeName="opacity" values="0.75;1;0.75" dur="7s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="1280" height="360" fill="url(#glowB)"/>
+
+    <g id="motif-group" fill="none" stroke="url(#motif)" stroke-width="2.5" stroke-linecap="round" opacity="0.9">
+<line x1="880" y1="250" x2="940" y2="140" stroke-opacity="0.55"/>
+<line x1="940" y1="140" x2="1010" y2="210" stroke-opacity="0.55"/>
+<line x1="1010" y1="210" x2="1060" y2="90" stroke-opacity="0.55"/>
+<line x1="1060" y1="90" x2="1120" y2="170" stroke-opacity="0.55"/>
+<line x1="1120" y1="170" x2="1190" y2="110" stroke-opacity="0.55"/>
+<line x1="1120" y1="170" x2="1160" y2="270" stroke-opacity="0.55"/>
+<line x1="1160" y1="270" x2="1050" y2="290" stroke-opacity="0.55"/>
+<line x1="1050" y1="290" x2="1010" y2="210" stroke-opacity="0.55"/>
+<line x1="940" y1="140" x2="980" y2="80" stroke-opacity="0.55"/>
+<line x1="980" y1="80" x2="1060" y2="90" stroke-opacity="0.55"/>
+<line x1="1010" y1="210" x2="1120" y2="170" stroke-opacity="0.55"/>
+</g><g fill="url(#motif)">
+<circle cx="880" cy="250" r="6"><animate attributeName="opacity" values="1;0.45;1" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="940" cy="140" r="6"><animate attributeName="opacity" values="1;0.45;1" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="1010" cy="210" r="9"><animate attributeName="opacity" values="1;0.45;1" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="1060" cy="90" r="6"><animate attributeName="opacity" values="1;0.45;1" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="1120" cy="170" r="9"><animate attributeName="opacity" values="1;0.45;1" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="1190" cy="110" r="6"><animate attributeName="opacity" values="1;0.45;1" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="1160" cy="270" r="6"><animate attributeName="opacity" values="1;0.45;1" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="1050" cy="290" r="6"><animate attributeName="opacity" values="1;0.45;1" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="980" cy="80" r="6"><animate attributeName="opacity" values="1;0.45;1" dur="3s" repeatCount="indefinite"/></circle>
+</g>
+  </g>
+
+  <text x="80" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="80" font-weight="800" letter-spacing="-2" fill="url(#title)">Abhinav Das</text>
+  <text x="84" y="220" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" font-weight="500" fill="#cbd5e1">Building in stealth · Android → TypeScript · Bengaluru</text>
+
+  <!-- CHIPS: one <g> per chip; width = chars*10.85 + 32; 14px gap between chips -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#e2e8f0">
+    <g transform="translate(84 256)">
+      <rect width="108" height="38" rx="19" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+      <text x="16" y="25">Android</text>
+    </g>
+    <g transform="translate(206 256)">
+      <rect width="140" height="38" rx="19" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+      <text x="16" y="25">TypeScript</text>
+    </g>
+    <g transform="translate(360 256)">
+      <rect width="108" height="38" rx="19" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+      <text x="16" y="25">Next.js</text>
+    </g>
+    <g transform="translate(482 256)">
+      <rect width="119" height="38" rx="19" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+      <text x="16" y="25">Supabase</text>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="1279" height="359" rx="28" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
+</svg>

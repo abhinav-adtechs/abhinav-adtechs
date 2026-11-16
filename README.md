@@ -1,1 +1,127 @@
-peace and digital computers.
+<p align="center">
+  <img src="assets/banner.svg" alt="Abhinav Das — building in stealth, Android to TypeScript, Bengaluru" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/abhinav-adtechs">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+something+new+in+stealth;Turning+a+Xiaomi+Google+TV+into+a+PS5-style+console;Shipping+TypeScript+%2B+Supabase+apps+on+Vercel;Writing+Android+apps+since+2016;peace+and+digital+computers." alt="Typing intro">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://x.com/jordiie09"><img src="https://img.shields.io/badge/@jordiie09-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"></a>
+  <img src="https://img.shields.io/badge/Bengaluru-India-8b5cf6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bengaluru, India">
+  <img src="https://komarev.com/ghpvc/?username=abhinav-adtechs&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS" alt="Profile views">
+</p>
+
+---
+
+## ⚡ About me
+
+- 🔭 **Building something new in stealth** — more soon.
+- 📱 **Android at heart.** Started with university apps in 2016 — an official yearbook app, a GPA planner, an ECG signal-processing pipeline — and most recently rebuilt a Google TV into a PS5-style console.
+- 🌐 **These days:** TypeScript, Next.js, React, Supabase and Vercel — small, sharp apps that solve one problem well.
+- 🤖 **AI tooling tinkerer** — backup, restore and skills tooling for Claude Desktop.
+- 💬 _peace and digital computers._
+
+## 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/abhinav-adtechs/argon">📺 Argon</a></h3>
+      <p>Debloated Xiaomi Google TV with a PS5-style launcher and a phone/laptop web remote.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/Android_TV-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android TV">
+      <img src="https://img.shields.io/github/stars/abhinav-adtechs/argon?style=flat-square&color=a78bfa" alt="Stars">
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/abhinav-adtechs/life-is-short">⏳ Life is Short</a></h3>
+      <p>Do the one thing that matters right now. <a href="https://life-is-short-pi.vercel.app">Live ↗</a></p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+      <img src="https://img.shields.io/github/stars/abhinav-adtechs/life-is-short?style=flat-square&color=a78bfa" alt="Stars">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/abhinav-adtechs/PanTompkins-Android">❤️ PanTompkins-Android</a></h3>
+      <p>The classic Pan–Tompkins QRS-detection filter pipeline, streaming ECG on Android.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/Signal_Processing-ef4444?style=flat-square" alt="Signal processing">
+      <img src="https://img.shields.io/github/stars/abhinav-adtechs/PanTompkins-Android?style=flat-square&color=a78bfa" alt="Stars">
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/abhinav-adtechs/Claude-Backup">🗄️ Claude-Backup</a></h3>
+      <p>Back up every Claude Code &amp; Cowork session to a markdown vault — resume from any account.</p>
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell">
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+      <img src="https://img.shields.io/github/stars/abhinav-adtechs/Claude-Backup?style=flat-square&color=a78bfa" alt="Stars">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/abhinav-adtechs/CGPAAmortizedAnalysis">📈 CGPA Amortized</a></h3>
+      <p>Know the GPA you need next semester to hold a 9.0 CGPA — worked out amortized-analysis style.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
+      <img src="https://img.shields.io/github/stars/abhinav-adtechs/CGPAAmortizedAnalysis?style=flat-square&color=a78bfa" alt="Stars">
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/abhinav-adtechs/fifa-league-tracker">⚽ FIFA League Tracker</a></h3>
+      <p>Track your friends' FIFA / EA FC league. <a href="https://fifa-league-tracker.vercel.app">Live ↗</a></p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+      <img src="https://img.shields.io/github/stars/abhinav-adtechs/fifa-league-tracker?style=flat-square&color=a78bfa" alt="Stars">
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>🏛️ From the archive (2015–2019)</b></summary>
+<br>
+
+| Project                                                                               | What it is                                                           |
+| ------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| [Yearbook-Android-Client](https://github.com/abhinav-adtechs/Yearbook-Android-Client) | The official Yearbook app of VIT University                          |
+| [Code-To-Create](https://github.com/abhinav-adtechs/Code-To-Create)                   | Website for ACM-VIT's first ever hackathon                           |
+| [MinMaxKmeans](https://github.com/abhinav-adtechs/MinMaxKmeans)                       | Implementation of the MinMax k-Means clustering paper                |
+| [AndroidAccessibility101](https://github.com/abhinav-adtechs/AndroidAccessibility101) | Understanding accessibility services and custom accessibility events |
+
+</details>
+
+## 🛠️ Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,ts,js,react,nextjs,vite,tailwind&perline=9" alt="Languages and frameworks"><br>
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,vercel,git,github,go,py,powershell,bash&perline=9" alt="Platforms and tools">
+</p>
+
+## 📈 GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=abhinav-adtechs&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA">
+    <img src="https://streak-stats.demolab.com/?user=abhinav-adtechs&theme=default&hide_border=true&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6" alt="GitHub streak stats" width="600">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-adtechs&theme=react-dark&bg_color=0D1117&color=A78BFA&line=22D3EE&point=FFFFFF&area=true&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-adtechs&theme=minimal&color=6D28D9&line=06B6D4&point=6D28D9&area=true&hide_border=true" alt="Contribution activity graph" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinav-adtechs/abhinav-adtechs/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/abhinav-adtechs/abhinav-adtechs/output/github-snake.svg" alt="Contribution snake animation" width="100%">
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <sub>If something here helped you, a ⭐ on the repo goes a long way.</sub>
+</p>
