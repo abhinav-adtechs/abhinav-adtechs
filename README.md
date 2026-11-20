@@ -15,6 +15,19 @@ My background is in Android. Since 2016 I have built apps ranging from VIT Unive
 
 Alongside that, I build developer tooling for AI assistants and occasionally rework hardware I own. Most recently, I turned a Xiaomi Google TV into a console-style living-room setup.
 
+## Featured: Life is short
+
+<a href="https://github.com/abhinav-adtechs/life-is-short"><img src="assets/life-is-short.gif" alt="Life is short in 25 seconds: the planner with today's outcomes, a dump turned into a plan, Done on the next task, ticking off a step on a goal's map, the three themes and the phone" width="100%"></a>
+
+A goals-first planner. Say what's on your mind and it becomes tasks on the goals they move, slotted on your calendar, with the one thing to do now on screen. Every goal has a route and a map to the finish line, and Claude plans the day with you through a built-in **MCP server**: 13 tools for goals, tasks and the day, behind OAuth 2.1. Phone, laptop, and native iPhone, iPad and Mac apps. Open source under MIT; it runs on your own database, or entirely in your browser with no keys.
+
+<p>
+  <a href="https://github.com/abhinav-adtechs/life-is-short/raw/main/docs/media/showcase.mp4"><img src="https://img.shields.io/badge/%E2%96%B6_Watch_the_walkthrough-1:40-F2A541?style=flat-square" alt="Watch the walkthrough, 1 minute 40"></a>
+  <a href="https://github.com/abhinav-adtechs/life-is-short#at-a-glance"><img src="https://img.shields.io/badge/Everything_it_does-0d1117?style=flat-square&logo=github&logoColor=white" alt="Everything it does"></a>
+  <a href="https://github.com/abhinav-adtechs/life-is-short#claude-and-mcp-at-a-glance"><img src="https://img.shields.io/badge/The_MCP_tools-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="The MCP tools"></a>
+  <a href="https://github.com/abhinav-adtechs/life-is-short#start-in-two-minutes"><img src="https://img.shields.io/badge/Run_your_own_in_2_minutes-3E8E41?style=flat-square&logo=nextdotjs&logoColor=white" alt="Run your own in two minutes"></a>
+</p>
+
 ## Selected work
 
 <table>
